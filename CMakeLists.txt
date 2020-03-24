@@ -13,6 +13,8 @@ add_message_files(
   RadarScanline.msg
   RadarSector.msg
   RadarSectorStamped.msg
+  RadarControlItem.msg
+  RadarControlSet.msg
   KeyValue.msg
   Heartbeat.msg
   Contact.msg
