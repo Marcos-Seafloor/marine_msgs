@@ -21,6 +21,7 @@ add_message_files(
   Helm.msg
   CourseMadeGood.msg
   CourseMadeGoodStamped.msg
+  DifferentialDrive.msg
 )
 
 generate_messages(
