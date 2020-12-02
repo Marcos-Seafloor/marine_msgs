@@ -22,6 +22,7 @@ add_message_files(
   CourseMadeGood.msg
   CourseMadeGoodStamped.msg
   DifferentialDrive.msg
+  Detect.msg
 )
 
 generate_messages(
