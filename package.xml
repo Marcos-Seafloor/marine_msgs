@@ -1,12 +1,17 @@
 <package format="2">
     <name>marine_msgs</name>
-    <version>0.0.0</version>
+    <version>1.0.0</version>
     <description>
     This package provides message types for autonomous marine applications.
     </description>
+    <!-- version 0.0.0 original -->
+    <author email="roland@ccom.unh.edu">Roland Arsenault</maintainer>
     <maintainer email="roland@ccom.unh.edu">Roland Arsenault</maintainer>
+    <!-- version 1.0.0 modified -->
+    <maintainer email="marcos.barrera@seafloorsystems.com">Marcos Barrera</maintainer>
     <license>BSD</license>
     <buildtool_depend>catkin</buildtool_depend>
     <build_depend>message_generation</build_depend>
+    <build_depnd>geographic_msgs</build_depend>
     <exec_depend>message_runtime</exec_depend>
 </package>
