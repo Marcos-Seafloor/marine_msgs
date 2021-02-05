@@ -5,7 +5,7 @@
     This package provides message types for autonomous marine applications.
     </description>
     <!-- version 0.0.0 original -->
-    <author email="roland@ccom.unh.edu">Roland Arsenault</maintainer>
+    <author email="roland@ccom.unh.edu">Roland Arsenault</author>
     <maintainer email="roland@ccom.unh.edu">Roland Arsenault</maintainer>
     <!-- version 1.0.0 modified -->
     <maintainer email="marcos.barrera@seafloorsystems.com">Marcos Barrera</maintainer>
